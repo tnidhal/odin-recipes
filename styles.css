@@ -1,0 +1,10 @@
+/* styles.css */
+* {
+  color: rgba(171, 173, 47, 0.753);
+  background-color: rgb(31, 70, 77);
+}
+@font-face {
+  font-family: fontname;
+  src: url(https://fonts.gstatic.com/s/lato/v16/S6uyw4BMUTPHjx4wXiWtFCc.woff2);
+}
+
